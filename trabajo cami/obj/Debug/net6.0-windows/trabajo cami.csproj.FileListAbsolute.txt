@@ -1,0 +1,17 @@
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\bin\Debug\net6.0-windows\trabajo cami.exe
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\bin\Debug\net6.0-windows\trabajo cami.deps.json
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\bin\Debug\net6.0-windows\trabajo cami.runtimeconfig.json
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\bin\Debug\net6.0-windows\trabajo cami.dll
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\bin\Debug\net6.0-windows\trabajo cami.pdb
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\obj\Debug\net6.0-windows\trabajo cami.csproj.AssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\obj\Debug\net6.0-windows\trabajo_cami.Form1.resources
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\obj\Debug\net6.0-windows\trabajo cami.csproj.GenerateResource.cache
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\obj\Debug\net6.0-windows\trabajo cami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\obj\Debug\net6.0-windows\trabajo cami.AssemblyInfoInputs.cache
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\obj\Debug\net6.0-windows\trabajo cami.AssemblyInfo.cs
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\obj\Debug\net6.0-windows\trabajo cami.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\obj\Debug\net6.0-windows\trabajo cami.dll
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\obj\Debug\net6.0-windows\refint\trabajo cami.dll
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\obj\Debug\net6.0-windows\trabajo cami.pdb
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\obj\Debug\net6.0-windows\trabajo cami.genruntimeconfig.cache
+C:\Users\Estudiante.SALA235-PC09\source\repos\trabajo cami\trabajo cami\obj\Debug\net6.0-windows\ref\trabajo cami.dll
